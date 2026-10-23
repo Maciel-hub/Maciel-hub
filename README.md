@@ -53,6 +53,8 @@ Gosto de entender problemas, investigar suas causas e transformar necessidades p
       <p>
         <a href="https://porquinho-financeiro.guilhermekira2015.workers.dev/">Abrir demonstração ↗</a>
         &nbsp;·&nbsp;
+        <a href="projects/porquinho-financeiro.md">Ler estudo de caso ↗</a>
+        &nbsp;·&nbsp;
         <a href="https://github.com/Maciel-hub?tab=repositories">Explorar repositórios ↗</a>
       </p>
       <sub>Projeto em evolução. O código-fonte não está público neste momento.</sub>
